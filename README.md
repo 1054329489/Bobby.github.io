@@ -38,3 +38,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### kick off
+on 2020/12/27
+```kick off
+This post is mainly about figuring out how to post and make a update plan for the whole page, about time and its content.
+First of all, time.
+I'm going to make 2 posts each week, maybe I'll regret for this decision, so in average, I must make an update on around Wednesday and Sunday.
+As for the content, I think it should contain what I was doing, technically. And I can make some summary monthly, so it would be more like a daily for this.
+
+I chose this way to post my blog, so I have to have a good understanding of markdown syntak. So let's start from here.
